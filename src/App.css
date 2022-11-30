@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+img.images {
+  width: 100px;
+}
+
+.cartWrapper {
+  width: 200px;
+  border: 1px solid cadetblue;
+  text-align: center;
+  padding: 20px;
+  margin-left: 10px;
+}
+
+button {
+  background: red;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  margin-top: 10px;
+  color: white;
+}
+
+img.cart-image {
+  width: 50px;
+  float: right;
+  margin-right: 15px;
+  
+}
